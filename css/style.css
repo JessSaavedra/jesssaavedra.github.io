@@ -1,0 +1,25 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+.jumbotron {
+  margin-bottom: 0px;
+  background: url(../img/back.jpg);
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: sienna;
+  font-family: Verdana, Geneva, sans-serif;
+  font-weight: bold;
+  text-shadow: 2px 2px 5px white;
+}
+
+#title{
+    color: sienna;
+  font-family: Verdana, Geneva, sans-serif;
+  font-weight: bold;
+  text-shadow: 2px 2px 5px white;
+  margin-left: 30px;
+}
+
+p{
+	margin-left: 50px;
+	font-family: Verdana, Geneva, sans-serif;
+}

@@ -1,0 +1,11 @@
+#portfolio {
+    text-align: center;
+    background: url(../img/background.jpg) repeat;
+    color: black;
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+}
+
+#mainName{
+    text-shadow: 2px 2px 5px black;
+}
